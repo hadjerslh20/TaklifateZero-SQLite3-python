@@ -1,0 +1,9 @@
+/*
+اكتب على الأقل 5 أنواع من البيانات داخل قاعدة البيانات Database Data Types
+*/
+1 ==> Text
+2 ==> varchar
+3 ==> INT 
+4 ==> Date 
+5 ==> Boolean 
+6 ==> Float
